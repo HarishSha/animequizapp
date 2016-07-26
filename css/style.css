@@ -21,7 +21,7 @@
 
   .image-answer{
     cursor: pointer;
-    height: auto;
+    height: 300px;
     width: 100%;
     overflow: hidden;
     border-radius: 10px;
